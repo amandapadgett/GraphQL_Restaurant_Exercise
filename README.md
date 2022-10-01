@@ -68,4 +68,4 @@ Run the index.js file on http://localhost:5500/graphql in order to make queries 
 
 ## License
 
-MIT
+<a href="https://github.com/amandapadgett/GraphQL_Restaurant_Exercise/blob/main/License">MIT</a>
